@@ -1,5 +1,5 @@
 owner: QRjet # Your GitHub organization or username, where this repository lives
-repo: monitor # The name of this repository
+repo: monitor-dev # The name of this repository
 
 sites:
   - name: "[Web - Dev ] Consumer Web App"
@@ -66,7 +66,7 @@ status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
 #   cname: demo.upptime.js.org
-  baseUrl: /monitor
+  baseUrl: /monitor-dev
 #   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Truetale Web Apps And Services Monitor Dev Environment
   introTitle: "**Truetale Monitor** monitor web apps and services."
