@@ -1,7 +1,7 @@
 url: https://api.dev.truetale.io/api/media/health-check
 status: down
 code: 503
-responseTime: 60
-lastUpdated: 2022-07-03T03:25:03.747Z
+responseTime: 42
+lastUpdated: 2022-07-03T23:04:30.765Z
 startTime: Sat Jul 02 2022 06:20:07 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
