@@ -124,7 +124,7 @@
     "timeMonth": 41,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2022-07-03": 11,
+      "2022-07-03": 205,
       "2022-07-02": 1060
     }
   },
@@ -151,18 +151,20 @@
     "url": "https://api.dev.truetale.io/api/media/health-check",
     "icon": "https://favicons.githubusercontent.com/api.dev.truetale.io",
     "slug": "service-dev-media-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "[ Service - Dev ] Orders Service",
