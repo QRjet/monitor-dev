@@ -124,7 +124,7 @@
     "timeMonth": 41,
     "timeYear": 41,
     "dailyMinutesDown": {
-      "2022-07-03": 228,
+      "2022-07-03": 257,
       "2022-07-02": 1060
     }
   },
@@ -152,18 +152,18 @@
     "icon": "https://favicons.githubusercontent.com/api.dev.truetale.io",
     "slug": "service-dev-media-service",
     "status": "down",
-    "uptime": "98.25%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "98.25%",
-    "uptimeMonth": "98.25%",
-    "uptimeYear": "98.25%",
+    "uptime": "96.05%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "96.05%",
+    "uptimeMonth": "96.05%",
+    "uptimeYear": "96.05%",
     "time": 125,
     "timeDay": 125,
     "timeWeek": 125,
     "timeMonth": 125,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2022-07-03": 23
+      "2022-07-03": 52
     }
   },
   {
@@ -172,18 +172,18 @@
     "icon": "https://favicons.githubusercontent.com/api.dev.truetale.io",
     "slug": "service-dev-orders-service",
     "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptime": "97.74%",
+    "uptimeDay": "97.74%",
+    "uptimeWeek": "97.74%",
+    "uptimeMonth": "97.74%",
+    "uptimeYear": "97.74%",
     "time": 154,
     "timeDay": 154,
     "timeWeek": 154,
     "timeMonth": 154,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2022-07-03": 0
+      "2022-07-03": 30
     }
   },
   {
@@ -209,18 +209,20 @@
     "url": "https://api.dev.truetale.io/api/pim/health-check",
     "icon": "https://favicons.githubusercontent.com/api.dev.truetale.io",
     "slug": "service-dev-pim-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 134,
-    "timeDay": 134,
-    "timeWeek": 134,
-    "timeMonth": 134,
-    "timeYear": 134,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 122,
+    "timeDay": 122,
+    "timeWeek": 122,
+    "timeMonth": 122,
+    "timeYear": 122,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "[ Service - Dev ] Qr Codes Service",
@@ -245,18 +247,20 @@
     "url": "https://api.dev.truetale.io/api/reseller/health-check",
     "icon": "https://favicons.githubusercontent.com/api.dev.truetale.io",
     "slug": "service-dev-reseller-service",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 140,
-    "timeDay": 140,
-    "timeWeek": 140,
-    "timeMonth": 140,
-    "timeYear": 140,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 133,
+    "timeDay": 133,
+    "timeWeek": 133,
+    "timeMonth": 133,
+    "timeYear": 133,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "[ Service - Dev ] Shopify Listener Service",
@@ -299,36 +303,40 @@
     "url": "https://api.dev.truetale.io/api/tags/health-check",
     "icon": "https://favicons.githubusercontent.com/api.dev.truetale.io",
     "slug": "service-dev-tags",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 155,
-    "timeDay": 155,
-    "timeWeek": 155,
-    "timeMonth": 155,
-    "timeYear": 155,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 139,
+    "timeDay": 139,
+    "timeWeek": 139,
+    "timeMonth": 139,
+    "timeYear": 139,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "[ Service - Dev ] Templates",
     "url": "https://api.dev.truetale.io/api/templates/health-check",
     "icon": "https://favicons.githubusercontent.com/api.dev.truetale.io",
     "slug": "service-dev-templates",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 144,
-    "timeWeek": 144,
-    "timeMonth": 144,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 130,
+    "timeDay": 130,
+    "timeWeek": 130,
+    "timeMonth": 130,
+    "timeYear": 130,
+    "dailyMinutesDown": {
+      "2022-07-03": 0
+    }
   },
   {
     "name": "[ Service - Dev ] Widgets",
