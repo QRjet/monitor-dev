@@ -1,7 +1,7 @@
 url: https://api.dev.truetale.io/graphql/health-check
-status: up
-code: 200
-responseTime: 12
-lastUpdated: 2022-07-09T23:04:25.699Z
+status: down
+code: 503
+responseTime: 73
+lastUpdated: 2022-07-10T04:28:07.774Z
 startTime: Sat Jul 02 2022 06:20:06 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
