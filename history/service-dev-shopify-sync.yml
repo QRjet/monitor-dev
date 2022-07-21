@@ -1,7 +1,7 @@
 url: https://api.dev.truetale.io/api/shopify-adapter-sync/health-check
 status: up
 code: 200
-responseTime: 67
-lastUpdated: 2022-07-20T23:04:39.078Z
+responseTime: 138
+lastUpdated: 2022-07-21T23:04:58.375Z
 startTime: Sat Jul 02 2022 06:20:10 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
