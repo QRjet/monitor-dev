@@ -1,7 +1,7 @@
 url: https://api.dev.truetale.io/api/billing/health-check
 status: up
 code: 200
-responseTime: 266
-lastUpdated: 2022-07-21T23:04:52.182Z
+responseTime: 335
+lastUpdated: 2022-07-22T23:04:27.833Z
 startTime: Sat Jul 02 2022 06:20:04 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
